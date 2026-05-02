@@ -2,7 +2,7 @@
   <img src="./gifts/neve.gif" width="100%" height="370" style="object-fit: cover;"/>
 </center>
 
-##  Contribuições
+<p></p>
 
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caetano3009/caetano3009/output/pacman-contribution-graph-dark.svg"> 
