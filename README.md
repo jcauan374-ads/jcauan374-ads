@@ -17,7 +17,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UNICID** — 3º semestre
-- 💼 Atuo no **centro de serviços do Consórcio Honda**
+- 💼 Atuo no **centro de serviços do Banco Honda**
 - 🔍 Focado em **Engenharia de Software** e **Análise de Dados**
 - 🚀 Sempre buscando transformar problemas reais em soluções práticas
 
