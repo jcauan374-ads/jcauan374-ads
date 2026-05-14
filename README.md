@@ -173,21 +173,6 @@ Meu foco está na construção de **sistemas web completos**, com atenção espe
 
 <br>
 
-### 🏥 SaúdeOpen
-> **Plataforma web para gestão de serviços do SUS**
-
-Sistema digital voltado à modernização do atendimento público de saúde, com foco em acessibilidade e organização de dados. Desenvolvido como projeto acadêmico com impacto social real.
-
-**Funcionalidades:**
-- 📋 Prontuário médico eletrônico do paciente
-- 📅 Agendamento digital de consultas
-- 💊 Pedido e controle de medicamentos
-- 👤 Cadastro e gestão de pacientes
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-&nbsp; 🔨 **Em desenvolvimento** &nbsp; · &nbsp; [📂 Ver Repositório](https://github.com/jcauan374-ads/SaudeOpen)
-
 ---
 
 ### 💼 Portal de Estágios
