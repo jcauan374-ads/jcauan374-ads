@@ -105,6 +105,17 @@ Meu foco está na construção de **sistemas web completos**, com atenção espe
       <code>Atendimento ao Usuário</code> · <code>CRM</code> · <code>Troubleshooting</code> · <code>Financiamento CDC</code> · <code>Renegociação</code> · <code>Documentação</code> · <code>Orientação a Dados</code>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="80"><b>Fev. – Jul. 2024</b></td>
+    <td>
+      <b>📞 Ativas Contact Center — Operador Jovem Aprendiz</b><br>
+      <b>Atendimento e vendas por telefone · São Paulo, SP</b><br><br>
+      • Venda ativa de seguros de vida para idosos e pensionistas via telefone, com abordagem consultiva e contorno de objeções<br>
+      • Desenvolvimento de disciplina operacional, escuta ativa e adaptação rápida em ambiente corporativo orientado por metas<br>
+      • Experiência inicial em atendimento, comunicação com diferentes perfis de usuários e acompanhamento de demandas<br><br>
+      <code>Atendimento ao Cliente</code> · <code>Comunicação</code> · <code>Escuta Ativa</code> · <code>Processos Operacionais</code> · <code>Metas</code>
+    </td>
+  </tr>
 </table>
 
 ---
