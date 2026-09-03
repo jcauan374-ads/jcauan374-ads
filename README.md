@@ -87,7 +87,7 @@ Meu foco está na construção de **sistemas web completos**, com atenção espe
 
 <table>
   <tr>
-    <td align="center" width="80"><b>2023 – Atual</b></td>
+    <td align="center" width="80"><b>Março de 2024 – Atual</b></td>
     <td>
       <b>📞 Konecta Brazil — Atendimento ao Cliente</b><br>
       <b>Produto Banco Honda · São Paulo, SP</b><br>
