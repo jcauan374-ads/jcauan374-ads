@@ -89,16 +89,16 @@ Meu foco está na construção de **sistemas web completos**, com atenção espe
   <tr>
     <td align="center" width="80"><b>2023 – Atual</b></td>
     <td>
-      <b>🏦 Centro de Serviços — Crédito & Financiamentos</b><br>
-      <b>Banco Honda · São Paulo, SP</b><br>
-      <sub>Analista de Atendimento · Modalidade Presencial</sub><br><br>
+      <b>📞 Konecta Brazil — Atendimento ao Cliente</b><br>
+      <b>Produto Banco Honda · São Paulo, SP</b><br>
+      <sub>Operador de Teleatendimento Junior III · Modalidade Presencial</sub><br><br>
       Responsabilidades e competências desenvolvidas:<br>
-      • Análise e concessão de propostas de financiamento para pessoa física<br>
-      • Renegociação de contratos de crédito com foco em retenção e satisfação do cliente<br>
-      • Acompanhamento de métricas de desempenho e metas operacionais<br>
-      • Documentação e padronização de processos internos<br>
-      • Desenvolvimento de visão orientada a dados em ambiente corporativo<br><br>
-      <code>Análise de Crédito</code> · <code>Renegociação</code> · <code>Processos Estruturados</code> · <code>Orientação a Dados</code> · <code>Setor Financeiro</code>
+      • Atendimento ao cliente relacionado aos produtos e serviços do Banco Honda<br>
+      • Orientações sobre contratos, financiamento e solicitações dos clientes<br>
+      • Apoio em processos de renegociação e esclarecimento de dúvidas<br>
+      • Registro e acompanhamento de atendimentos em sistemas corporativos<br>
+      • Acompanhamento de indicadores de qualidade, produtividade e metas operacionais<br><br>
+      <code>Atendimento ao Cliente</code> · <code>Financiamento</code> · <code>Renegociação</code> · <code>Sistemas Corporativos</code> · <code>Orientação a Dados</code>
     </td>
   </tr>
 </table>
