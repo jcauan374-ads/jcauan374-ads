@@ -211,13 +211,16 @@ Plataforma responsiva para modernizar o atendimento e agendamento de uma clínic
 
 ---
 
-### 📋 SisGESC
-> **Sistema de gestão de processos internos e controle operacional**
+### 📊 SisGESC — ERP Educacional
+> **Dashboard de gestão acadêmica, financeira e operacional**
 
-Projeto voltado à automação e controle de fluxos operacionais internos, com foco em gestão estruturada e rastreabilidade de processos.
+Sistema de gestão educacional com dashboard responsivo, módulos acadêmicos, financeiro, recursos humanos, Business Intelligence e integração opcional com PostgreSQL/Supabase.
 
-![Em Definição](https://img.shields.io/badge/Stack-Em_Definição-888?style=flat-square)
-&nbsp; 📐 **Em planejamento**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+&nbsp; ✅ **Concluído** &nbsp; · &nbsp; [📂 Ver Repositório](https://github.com/jcauan374-ads/Projeto-de-Banco-de-Dados---SisGESC)
 
 ---
 
