@@ -89,16 +89,20 @@ Meu foco está na construção de **sistemas web completos**, com atenção espe
   <tr>
     <td align="center" width="80"><b>Março de 2024 – Atual</b></td>
     <td>
-      <b>📞 Konecta Brazil — Atendimento ao Cliente</b><br>
+      <b>📞 Konecta Brazil Outsourcing LTDA — Atendimento ao Usuário</b><br>
       <b>Produto Banco Honda · São Paulo, SP</b><br>
       <sub>Operador de Teleatendimento Junior III · Modalidade Presencial</sub><br><br>
+      Iniciei minha trajetória na operação do <b>Consórcio Honda</b> e, após reconhecimento pelo meu desempenho, fui realocado para a central de atendimento do <b>Banco Honda</b>, com foco em financiamento e recuperação de crédito.<br><br>
       Responsabilidades e competências desenvolvidas:<br>
-      • Atendimento ao cliente relacionado aos produtos e serviços do Banco Honda<br>
-      • Orientações sobre contratos, financiamento e solicitações dos clientes<br>
-      • Apoio em processos de renegociação e esclarecimento de dúvidas<br>
-      • Registro e acompanhamento de atendimentos em sistemas corporativos<br>
-      • Acompanhamento de indicadores de qualidade, produtividade e metas operacionais<br><br>
-      <code>Atendimento ao Cliente</code> · <code>Financiamento</code> · <code>Renegociação</code> · <code>Sistemas Corporativos</code> · <code>Orientação a Dados</code>
+      • Atendimento direto ao usuário em demandas relacionadas a produtos e serviços financeiros<br>
+      • Renegociação de contratos de financiamento CDC e análise de propostas de acordo<br>
+      • Suporte sobre taxas de juros, parcelamento e regularização de contratos<br>
+      • Registro e atualização de informações, histórico e solicitações em sistemas de CRM<br>
+      • Emissão e controle de boletos de quitação, termos de acordo e segundas vias<br>
+      • Identificação de problemas, orientação de soluções e acompanhamento de demandas até a resolução<br>
+      • Acompanhamento de indicadores de qualidade, produtividade, retenção e inadimplência<br><br>
+      Essa experiência fortalece competências transferíveis para TI, como atendimento ao usuário, troubleshooting, organização de dados, documentação, comunicação clara, raciocínio rápido e atuação orientada a processos.<br><br>
+      <code>Atendimento ao Usuário</code> · <code>CRM</code> · <code>Troubleshooting</code> · <code>Financiamento CDC</code> · <code>Renegociação</code> · <code>Documentação</code> · <code>Orientação a Dados</code>
     </td>
   </tr>
 </table>
