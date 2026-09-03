@@ -40,7 +40,7 @@ class JoseCauan:
     def __init__(self):
         self.nome        = "José Cauan"
         self.localizacao = "São Paulo, SP — Brasil 🇧🇷"
-        self.formacao    = "ADS · UNICID · 3º Semestre (conclusão: Jan/2027)"
+        self.formacao    = "ADS · UNICID · 4º Semestre (conclusão: Jan/2027)"
         self.empresa     = "Banco Honda — Centro de Serviços & Crédito"
         self.foco        = ["Engenharia de Software", "Análise de Dados", "Desenvolvimento Web"]
         self.objetivo    = "Estágio em Desenvolvimento de Software ou Banco de Dados"
@@ -59,7 +59,7 @@ class JoseCauan:
 
 <br>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID**, atualmente no **3º semestre**, com previsão de conclusão em **2027**. Minha trajetória combina uma base sólida em tecnologia com experiência prática no **mercado financeiro**, o que me dá uma perspectiva diferenciada na construção de sistemas: entendo não só o código, mas também os **processos de negócio** por trás de cada solução.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID**, atualmente no **4º semestre**, com previsão de conclusão em **2027**. Minha trajetória combina uma base sólida em tecnologia com experiência prática no **mercado financeiro**, o que me dá uma perspectiva diferenciada na construção de sistemas: entendo não só o código, mas também os **processos de negócio** por trás de cada solução.
 
 Atualmente trabalho no **centro de serviços do Banco Honda**, onde lido diariamente com análise de dados, processos estruturados e atendimento orientado a resultados — habilidades que aplico diretamente nos meus projetos de desenvolvimento.
 
