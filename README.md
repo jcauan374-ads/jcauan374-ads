@@ -41,9 +41,9 @@ class JoseCauan:
         self.nome        = "José Cauan"
         self.localizacao = "São Paulo, SP — Brasil 🇧🇷"
         self.formacao    = "ADS · UNICID · 4º Semestre (conclusão: Junho/2027)"
-        self.empresa     = "Banco Honda — Centro de Serviços & Crédito"
-        self.foco        = ["Engenharia de Software", "Análise de Dados", "Desenvolvimento Web"]
-        self.objetivo    = "Estágio em Desenvolvimento de Software ou Banco de Dados"
+        self.empresa     = "Konecta Brazil — Produto Banco Honda"
+        self.foco        = ["Desenvolvimento", "Suporte e Infraestrutura", "Dados e CRM"]
+        self.objetivo    = "Estágio ou posição júnior em Tecnologia da Informação"
         self.idiomas     = ["Português (Nativo)", "Inglês (Básico/Leitura técnica)"]
 
     def habilidades_extras(self):
@@ -61,7 +61,7 @@ class JoseCauan:
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **UNICID**, atualmente no **4º semestre**, com previsão de conclusão em **2027**. Minha trajetória combina uma base sólida em tecnologia com experiência prática no **mercado financeiro**, o que me dá uma perspectiva diferenciada na construção de sistemas: entendo não só o código, mas também os **processos de negócio** por trás de cada solução.
 
-Atualmente trabalho no **centro de serviços do Banco Honda**, onde lido diariamente com análise de dados, processos estruturados e atendimento orientado a resultados — habilidades que aplico diretamente nos meus projetos de desenvolvimento.
+Atualmente trabalho na **Konecta Brazil**, atendendo o produto **Banco Honda**, onde lido diariamente com análise de dados, processos estruturados e atendimento orientado a resultados — habilidades que aplico diretamente nos meus projetos de desenvolvimento.
 
 Meu foco está na construção de **sistemas web completos**, com atenção especial à experiência do usuário, organização de banco de dados e **código limpo e documentado**.
 
@@ -207,6 +207,17 @@ Sistema web completo que automatiza o processo de busca e candidatura a vagas de
 
 ---
 
+### 📱 Quiz das Bandeiras
+> **Aplicativo educativo desenvolvido no Android Studio**
+
+Aplicativo mobile desenvolvido em Java com perguntas sobre bandeiras, lógica de pontuação e uma versão web demonstrativa publicada no GitHub Pages.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
+&nbsp; ✅ **Publicado** &nbsp; · &nbsp; [📂 Ver Repositório](https://github.com/jcauan374-ads/Quiz-de-Bandeiras) · [🌐 Versão Web](https://jcauan374-ads.github.io/Quiz-de-Bandeiras/)
+
+---
+
 ### 🦷 Clínica Odontológica
 > **Sistema web de gestão para clínica odontológica**
 
@@ -239,20 +250,31 @@ Sistema de gestão educacional com dashboard responsivo, módulos acadêmicos, f
 
 ---
 
-### 🐍 Python Core — Estudos e Exercícios
+### ⚡ PayFast — Banco de Dados & Dashboard
+> **Modelo relacional para transações e liquidação de Pix**
+
+Projeto acadêmico com engenharia reversa, dependências funcionais, normalização até a 3FN, integridade referencial e dados fictícios para testes. A visualização também possui um dashboard publicado no GitHub Pages.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+&nbsp; ✅ **Concluído** &nbsp; · &nbsp; [📂 Repositório](https://github.com/jcauan374-ads/Payfast-Banco-de-Dados) · [🌐 Dashboard](https://jcauan374-ads.github.io/Payfast-Banco-de-Dados/)
+
+---
+
+### 🐍 Lógicas em Python — Estudos e Exercícios
 > **Repositório de aprendizado progressivo em Python**
 
-Coleção estruturada de exercícios em Jupyter Notebook cobrindo desde lógica básica até automação e manipulação de dados, com documentação em cada notebook.
+Repositório de estudos progressivos em Python, com exercícios de lógica, estruturas de controle, funções e fundamentos de programação.
 
 **Conteúdo:**
 - 🔁 Estruturas de repetição e condicionais
-- 📦 Funções, módulos e manipulação de arquivos
-- 📊 Introdução à análise de dados com Pandas
-- 🤖 Scripts de automação e lógica de decisão
+- 📦 Funções e modularização
+- 🧠 Lógica de programação e resolução de problemas
+- 🧪 Exercícios práticos progressivos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-&nbsp; 📖 **Estudo contínuo** &nbsp; · &nbsp; [📂 Ver Repositório](https://github.com/jcauan374-ads/Estudos-Python)
+&nbsp; 📖 **Estudo contínuo** &nbsp; · &nbsp; [📂 Ver Repositório](https://github.com/jcauan374-ads/Logicas-Em-Python)
 
 ---
 
@@ -307,7 +329,8 @@ Repositório de referência com exercícios progressivos em HTML puro, pensado c
 | 🐍 Python | Pandas + análise de dados + visualização | 🔨 Em andamento |
 | 🔧 Boas Práticas | Clean Code, Git Flow e documentação técnica | 🔨 Em andamento |
 | 📊 BI | Dashboards profissionais com Power BI | 📐 Planejado |
-| 🚀 Deploy | Publicação de projetos com GitHub Pages / Vercel | 📐 Planejado |
+| 🚀 Deploy | Publicação de projetos com GitHub Pages | ✅ Concluído |
+| 📱 Mobile | Desenvolvimento de aplicativo Android com Java | ✅ Projeto publicado |
 
 ---
 
@@ -332,7 +355,7 @@ Repositório de referência com exercícios progressivos em HTML puro, pensado c
 
 <div align="center">
 
-Estou aberto a oportunidades de **estágio**, **freela** e **colaborações acadêmicas**. Vamos conversar!
+Estou aberto a oportunidades de **estágio** e posições **júnior** em Desenvolvimento, Suporte Técnico, Infraestrutura, Banco de Dados, CRM e Tecnologia da Informação. Vamos conversar!
 
 <br>
 
