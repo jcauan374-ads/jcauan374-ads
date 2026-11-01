@@ -40,7 +40,7 @@ class JoseCauan:
     def __init__(self):
         self.nome        = "José Cauan"
         self.localizacao = "São Paulo, SP — Brasil 🇧🇷"
-        self.formacao    = "ADS · UNICID · 4º Semestre (conclusão: Jan/2027)"
+        self.formacao    = "ADS · UNICID · 4º Semestre (conclusão: Junho/2027)"
         self.empresa     = "Banco Honda — Centro de Serviços & Crédito"
         self.foco        = ["Engenharia de Software", "Análise de Dados", "Desenvolvimento Web"]
         self.objetivo    = "Estágio em Desenvolvimento de Software ou Banco de Dados"
@@ -75,7 +75,7 @@ Meu foco está na construção de **sistemas web completos**, com atenção espe
     <td>
       <b>🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas</b><br>
       <b>UNICID — Universidade Cidade de São Paulo · São Paulo, SP</b><br>
-      <sub>4º Semestre em andamento · Conclusão prevista: Janeiro/2027</sub><br><br>
+      <sub>4º Semestre em andamento · Conclusão prevista: Junho/2027</sub><br><br>
       Disciplinas relevantes: <code>Algoritmos e Lógica</code> · <code>Banco de Dados</code> · <code>Engenharia de Software</code> · <code>Estrutura de Dados</code> · <code>Desenvolvimento Web</code> · <code>Análise de Sistemas</code>
     </td>
   </tr>
